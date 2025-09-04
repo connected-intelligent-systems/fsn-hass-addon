@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: FSN Hass Addon
+url: 'https://github.com/sebh96/fsn-hass-addon'
+maintainer: Sebastian Hocke <sebastian.hocke@dfki.de>
