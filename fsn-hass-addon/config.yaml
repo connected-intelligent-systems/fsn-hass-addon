@@ -11,7 +11,7 @@ arch:
   - i386
 hassio_api: true
 docker_api: true
-image: registry.dataspace.plaiful.org/hass/hass-addon
+image: registry.dataspace.plaiful.org/hass-addon
 ports:
   8501/tcp: 8501
 ingress: true
